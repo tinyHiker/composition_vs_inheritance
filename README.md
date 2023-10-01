@@ -1,3 +1,4 @@
+![The Weakness of Inheritance](./Composition_vs_inheritance.png)
 
 
 # Composition vs. Inheritance in an Employee Management System
